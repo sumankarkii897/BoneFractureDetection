@@ -57,7 +57,5 @@ https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-b
 > The dataset is **not included** in this repository due to size constraints.  
 > Please download it manually from Kaggle.
 
----
 
-## ⚙️ Project Structure
 
